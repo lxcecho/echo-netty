@@ -40,6 +40,7 @@ dependencies {
 
     // https://mvnrepository.com/artifact/org.projectlombok/lombok
     implementation 'org.slf4j:slf4j-api:1.7.36'
+    implementation "org.slf4j:slf4j-simple:1.7.36"
     implementation "junit:junit:4.12"
     // lombok
     compileOnly 'org.projectlombok:lombok:1.18.22'
